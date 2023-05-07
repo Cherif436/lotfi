@@ -34,22 +34,22 @@ const Layouts = () => {
         </Link>
         <Link href="/" className="p-1">   
         </Link>
-        <Link href="/" className="p-2">
+        <Link href="/" className="p-1">
           <FaHome className="text-2xl font-bold dark:text-white hover:text-blue-600" />
         </Link>
-        <Link href="/parcours" className="p-2 hover:text-blue-600">
+        <Link href="/parcours" className="p-1 hover:text-blue-600">
           Parcours
         </Link>
-        <Link href="/resume" className="p-2 hover:text-blue-600">
+        <Link href="/resume" className="p-1 hover:text-blue-600">
           Compétences
         </Link>
-        <Link href="/projects" className="p-2 hover:text-blue-600">
+        <Link href="/projects" className="p-1 hover:text-blue-600">
           Projets
         </Link>
-        <Link href="/contact" className="p-2 hover:text-blue-600">
+        <Link href="/contact" className="p-1 hover:text-blue-600">
           Contact
         </Link>
-        <div className="p-2">
+        <div className="p-1">
           <div>
             <div className="flex justify-center">
               {currentTheme === 'dark' ? (
