@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  margin-top: 3.25%;
+}
+
+body {
+  background-color: black;
+  font-family: "Lora", "Noto Serif SC", serif;
+  color: #354358;
+}
+
+img {
+  opacity: 0.8;
+}
+
+.hr {
+  background-color: #2563eb;
+}
+
+::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(to right bottom, #2563eb, #0ea5e9);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 0px;
+}
