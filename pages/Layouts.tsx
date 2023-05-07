@@ -22,6 +22,18 @@ const Layouts = () => {
     exit={{ opacity: 0 }}
     transition={{ duration: 1 }} className="overflow-y-scroll">
       <nav className="flex items-center justify-center overflow-x-auto text-md">
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">   
+        </Link>
         <Link href="/" className="p-2">
           <FaHome className="text-2xl font-bold dark:text-white hover:text-blue-600" />
         </Link>
