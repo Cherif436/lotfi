@@ -128,7 +128,7 @@ const Sidebar = () => {
                     ×
                     </span>
                 </button>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2518.8119054762246!2d4.4225091!3d50.8531673!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3dca51abd5d2d%3A0x4b2d4d85ee9b033e!2sAndromedalaan%2040%2C%201200%20Sint-Lambrechts-Woluwe!5e0!3m2!1snl!2sbe!4v1669473874528!5m2!1snl!2sbe" width="450" height="450" style={{ border: 0 }} loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2518.8119054762246!2d4.4225091!3d50.8531673!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3dca51abd5d2d%3A0x4b2d4d85ee9b033e!2sAndromedalaan%2040%2C%201200%20Sint-Lambrechts-Woluwe!5e0!3m2!1snl!2sbe!4v1669473874528!5m2!1snl!2sbe" width="350" height="350" style={{ border: 0 }} loading="lazy"></iframe>
 
               </div>
             </div>
